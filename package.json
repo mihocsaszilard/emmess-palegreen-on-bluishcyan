@@ -1,0 +1,21 @@
+{
+  "name": "emmess-palegreen-on-bluishcyan",
+  "displayName": "emmess_paleGreen_on_bluishCyan",
+  "description": "PaleGreen on BluishCyan is a low contrast confortable theme to satisfy your dreams.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "PaleGreen on BluishCyan by emmess",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PaleGreen on BluishCyan by emmess-color-theme.json"
+      }
+    ]
+  }
+}
