@@ -1,3 +1,8 @@
-# emmess-palegreen-on-bluishcyan README
+# PaleGreen-on-BluishCyan by emmess
 
-![](img/banner2.png)
+#### Low contrast VSCode theme for a better coding experience.
+
+![Screenshot of PaleGreen-on-BluishCyan theme](./img/banner2.png)
+
+## Installation 
+The theme is published at (OpenVSX)[https://open-vsx.org/]
