@@ -13,7 +13,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "./img/icon.png",
+  "author": "emmess",
   "contributes": {
     "themes": [
       {
