@@ -22,4 +22,4 @@ Open VSCode, select ***Extensions*** `(Ctrl+Shift+X)`, click to the `...` menu o
 <br>
 Navigate to the downloaded <code>.vsix</code> file and select. After sucessfully selecting, the theme should be available between the Extensions, select it and click <code>Set Color Theme</code>.
 <br>
-***Enjoy!*** 
+<b>Enjoy!</b>
