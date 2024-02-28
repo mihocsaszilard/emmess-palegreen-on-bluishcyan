@@ -14,6 +14,6 @@ Open VSCode, select ***Extensions*** (Ctrl+Shift+X), click to the `...` menu on 
 <p align="center">
   <img src="./img/install.webp" alt="install"/>
 </p>
-<br><br>
+<br>
 Navigate to the downloaded `.vsix` file and select. After sucessfully selecting, the theme should be available between the Extensions, select it and click `Set Color Theme`. <br>
 ***Enjoy*!** 
