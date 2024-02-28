@@ -9,9 +9,9 @@
 </p>
 
 ## Installation 
-The theme is published at [OpenVSX](https://open-vsx.org/extension/emmess/emmess-palegreen-on-bluishcyan) and is available to download.
+The *PaleGreen-on-BluishCyan* theme is published at [OpenVSX](https://open-vsx.org/extension/emmess/emmess-palegreen-on-bluishcyan) and is available to download.
 
-Open VSCode, select ***Extensions*** (Ctrl+Shift+X), click to the `...` menu on the top right cornet of extensions panel and select `Install from VSIX...`. <br><br>
+Open VSCode, select ***Extensions*** `(Ctrl+Shift+X)`, click to the `...` menu on the top right corner of extensions panel and select `Install from VSIX...`. <br><br>
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/master/assets/install.webp?token=GHSAT0AAAAAACO2IFFN7N4US7WMVDXCI6FKZO7SLXA" target="_BLANK">
