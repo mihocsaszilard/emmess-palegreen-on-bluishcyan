@@ -2,8 +2,9 @@
   "name": "emmess-palegreen-on-bluishcyan",
   "displayName": "emmess_paleGreen_on_bluishCyan",
   "description": "PaleGreen on BluishCyan is a low contrast confortable theme to satisfy your dreams.",
-  "version": "0.0.9",
+  "version": "0.1.1",
   "publisher": "emmess",
+  "icon": "./img/icon.webp",
   "repository": {
     "url": "https://github.com/mihocsaszilard/emmess-palegreen-on-bluishcyan"
   },
