@@ -3,8 +3,8 @@
 #### Low contrast VSCode theme for a better coding experience.
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/master/assets/banner2.webp" target="_BLANK">
-    <img alt="Screenshot" src="https://raw.githubusercontent.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/master/assets/banner2.webp">
+  <a href="https://github.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/blob/master/assets/banner2.webp" target="_BLANK">
+    <img alt="Screenshot" src="https://github.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/blob/master/assets/banner2.webp">
   </a>
 </p>
 
