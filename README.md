@@ -2,11 +2,7 @@
 
 #### Low contrast VSCode theme for a better coding experience.
 
-<p align="center">
-  <a href="https://github.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/blob/master/assets/banner2.webp" target="_BLANK">
-    <img alt="Screenshot" src="https://github.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/blob/master/assets/banner2.webp">
-  </a>
-</p>
+![Screenshot](https://raw.githubusercontent.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/master/assets/banner2.png)
 
 ## Installation 
 The *PaleGreen-on-BluishCyan* theme is published at [OpenVSX](https://open-vsx.org/extension/emmess/emmess-palegreen-on-bluishcyan) and is available to download.
