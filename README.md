@@ -3,7 +3,7 @@
 #### Low contrast VSCode theme for a better coding experience.
 
 <p align="center">
-  <img style="max-width: 1000px" src="https://raw.githubusercontent.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/master/assets/install.webp"/>
+  <img style="max-width: 1000px" src="https://raw.githubusercontent.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/master/assets/banner2.webp"/>
 </p>
 
 ## Installation 
