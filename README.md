@@ -4,6 +4,8 @@
 
 ![Screenshot](https://raw.githubusercontent.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/master/assets/banner2.png)
 
+![Screenshot](https://raw.githubusercontent.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/master/assets/banner2.webp)
+
 ## Installation 
 The *PaleGreen-on-BluishCyan* theme is published at [OpenVSX](https://open-vsx.org/extension/emmess/emmess-palegreen-on-bluishcyan) and is available to download.
 
