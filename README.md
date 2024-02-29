@@ -4,7 +4,7 @@
   <h4>Low contrast VSCode theme for a better coding experience<h4>
 
   <p align="center">
-    <img style="max-width: 1000px" src="https://raw.githubusercontent.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/master/assets/banner2.webp"/>
+    <img src="https://raw.githubusercontent.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/master/assets/banner2.webp"/>
   </p>
 
   <h2> Installation </h2>
@@ -13,7 +13,7 @@
   Open VSCode, select <em><b>Extensions</b></em> <code>(Ctrl+Shift+X)</code>, click to the <code>...</code> menu on the top right corner of extensions panel and select <code>Install from VSIX...</code>. <br><br>
 
   <p align="center">
-    <img style="max-width: 1000px" src="https://raw.githubusercontent.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/master/assets/install.webp"/>
+    <img src="https://raw.githubusercontent.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/master/assets/install.webp"/>
   </p>
 
   <br>
