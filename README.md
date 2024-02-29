@@ -14,8 +14,8 @@ The *PaleGreen-on-BluishCyan* theme is published at [OpenVSX](https://open-vsx.o
 Open VSCode, select ***Extensions*** `(Ctrl+Shift+X)`, click to the `...` menu on the top right corner of extensions panel and select `Install from VSIX...`. <br><br>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/master/assets/install.webp?token=GHSAT0AAAAAACO2IFFMPBRGG2TFJW6JH53IZO7SYCQ" target="_BLANK">
-    <img alt="Install" src="https://raw.githubusercontent.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/master/assets/install.webp?token=GHSAT0AAAAAACO2IFFMPBRGG2TFJW6JH53IZO7SYCQ">
+  <a href="https://github.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/blob/master/assets/install.webp" target="_BLANK">
+    <img alt="Install" src="https://github.com/mihocsaszilard/emmess-palegreen-on-bluishcyan/blob/master/assets/install.webp">
   </a>
 </p>
 
