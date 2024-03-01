@@ -1,5 +1,18 @@
 {
-  "name": "PaleGreen on BluishCyan by emmess",
+  "name": "emmess-PaleGreen-on-BluishCyan",
+  "type": "dark",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "enumMember": {
+      "foreground": "#9aff9b"
+    },
+    "variable.constant": {
+      "foreground": "#eed0aa"
+    },
+    "variable.defaultLibrary": {
+      "foreground": "#e29c5e"
+    }
+  },
   "tokenColors": [
     {
       "name": "unison punctuation",
